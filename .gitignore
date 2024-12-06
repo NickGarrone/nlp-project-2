@@ -1,0 +1,15 @@
+env
+./env
+./env/*
+env/*
+training_data/*
+training_data
+training_data_raw
+training_data_raw/*
+doc2vec_model.d2v
+unseen_files/*
+clustered_files/*
+clustered_files
+unseen_files
+./doc2vec_model.d2v
+doc2vec_model.d2v/*

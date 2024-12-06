@@ -1,7 +1,7 @@
 import requests
 
 def chatgpt_api_call(prompt):
-    api_key = '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'  # Set your OpenAI API key here
+    api_key = 'key-here'
 
     url = 'https://api.openai.com/v1/chat/completions'
     
